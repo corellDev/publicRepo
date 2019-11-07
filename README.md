@@ -4,7 +4,7 @@
 * Vorname: Berthold
 * Geboren: 10. Februar 1898, _Augsburg_
 * Gestorben: 14. August 1956, _Ost-Berlin_
-  ** Toller Dramatiker 
+    * Toller Dramatiker 
 
 `So wuerde sein Quellcode aussehen`
 > "Die Muehen der Gebirge liegen hinter uns // Vor uns liegen die Muehen der Ebenen."
